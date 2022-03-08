@@ -1,0 +1,1083 @@
+cruz@cruz:~/Documentos/practica4$ ./Hilos3
+Proceso padre: 17217	Hilo padre: 17217, genera 15 hilos mas
+
+		Hilo 1, id: 17219, genera 10 hilos mas
+
+			Hilo 1, id: 17220, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 2, id: 17226, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 3, id: 17232, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 4, id: 17238, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 5, id: 17244, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 6, id: 17250, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 7, id: 17256, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 8, id: 17262, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 9, id: 17268, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 10, id: 17274, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+		Hilo 2, id: 17280, genera 10 hilos mas
+
+			Hilo 1, id: 17281, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 2, id: 17287, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 3, id: 17293, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 4, id: 17299, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 5, id: 17305, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 6, id: 17311, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 7, id: 17317, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 8, id: 17323, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 9, id: 17329, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 10, id: 17335, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+		Hilo 3, id: 17341, genera 10 hilos mas
+
+			Hilo 1, id: 17342, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 2, id: 17348, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 3, id: 17354, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 4, id: 17360, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 5, id: 17366, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 6, id: 17372, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 7, id: 17378, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 8, id: 17384, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 9, id: 17390, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 10, id: 17396, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+		Hilo 4, id: 17402, genera 10 hilos mas
+
+			Hilo 1, id: 17403, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 2, id: 17409, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 3, id: 17415, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 4, id: 17421, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 5, id: 17427, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 6, id: 17433, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 7, id: 17439, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 8, id: 17445, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 9, id: 17451, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 10, id: 17457, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+		Hilo 5, id: 17463, genera 10 hilos mas
+
+			Hilo 1, id: 17464, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 2, id: 17470, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 3, id: 17476, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 4, id: 17482, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 5, id: 17488, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 6, id: 17494, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 7, id: 17500, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 8, id: 17506, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 9, id: 17512, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 10, id: 17518, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+		Hilo 6, id: 17524, genera 10 hilos mas
+
+			Hilo 1, id: 17525, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 2, id: 17531, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 3, id: 17537, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 4, id: 17543, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 5, id: 17549, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 6, id: 17555, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 7, id: 17561, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 8, id: 17567, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 9, id: 17573, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 10, id: 17579, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+		Hilo 7, id: 17585, genera 10 hilos mas
+
+			Hilo 1, id: 17586, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 2, id: 17592, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 3, id: 17598, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 4, id: 17604, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 5, id: 17610, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 6, id: 17616, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 7, id: 17622, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 8, id: 17628, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 9, id: 17634, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 10, id: 17640, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+		Hilo 8, id: 17646, genera 10 hilos mas
+
+			Hilo 1, id: 17647, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 2, id: 17653, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 3, id: 17659, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 4, id: 17665, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 5, id: 17671, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 6, id: 17677, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 7, id: 17683, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 8, id: 17689, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 9, id: 17695, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 10, id: 17701, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+		Hilo 9, id: 17707, genera 10 hilos mas
+
+			Hilo 1, id: 17708, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 2, id: 17714, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 3, id: 17720, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 4, id: 17726, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 5, id: 17732, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 6, id: 17738, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 7, id: 17744, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 8, id: 17750, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 9, id: 17756, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 10, id: 17762, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+		Hilo 10, id: 17768, genera 10 hilos mas
+
+			Hilo 1, id: 17769, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 2, id: 17775, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 3, id: 17781, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 4, id: 17787, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 5, id: 17793, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 6, id: 17799, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 7, id: 17805, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 8, id: 17811, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 9, id: 17817, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 10, id: 17823, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+		Hilo 11, id: 17829, genera 10 hilos mas
+
+			Hilo 1, id: 17830, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 2, id: 17836, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 3, id: 17842, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 4, id: 17848, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 5, id: 17854, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 6, id: 17860, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 7, id: 17866, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 8, id: 17872, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 9, id: 17878, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 10, id: 17884, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+		Hilo 12, id: 17890, genera 10 hilos mas
+
+			Hilo 1, id: 17891, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 2, id: 17897, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 3, id: 17903, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 4, id: 17909, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 5, id: 17915, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 6, id: 17921, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 7, id: 17927, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 8, id: 17933, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 9, id: 17939, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 10, id: 17945, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+		Hilo 13, id: 17951, genera 10 hilos mas
+
+			Hilo 1, id: 17952, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 2, id: 17958, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 3, id: 17964, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 4, id: 17970, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 5, id: 17976, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 6, id: 17982, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 7, id: 17988, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 8, id: 17994, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 9, id: 18000, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 10, id: 18006, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+		Hilo 14, id: 18012, genera 10 hilos mas
+
+			Hilo 1, id: 18013, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 2, id: 18019, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 3, id: 18025, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 4, id: 18031, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 5, id: 18037, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 6, id: 18043, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 7, id: 18049, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 8, id: 18055, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 9, id: 18061, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 10, id: 18067, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+		Hilo 15, id: 18073, genera 10 hilos mas
+
+			Hilo 1, id: 18074, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 2, id: 18080, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 3, id: 18086, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 4, id: 18092, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 5, id: 18098, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 6, id: 18104, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 7, id: 18110, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 8, id: 18116, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 9, id: 18122, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+			Hilo 10, id: 18128, genera 5 hilos mas
+
+				Practica4
+				Practica4
+				Practica4
+				Practica4
+				Practica4
